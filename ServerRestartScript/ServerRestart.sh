@@ -1,10 +1,5 @@
 #!/bin/bash
 
-#====================================================
-#Task: Service Monitor & Auto-Restart Script
-#Author: Surendra
-#====================================================
-
 SERVER="nginx"
 LOG_FILE="/tmp/service_monitor.log"
 
