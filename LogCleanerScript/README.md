@@ -78,25 +78,25 @@ The complete source code is available in this repository.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/Linux-DevOps-Lab-Projects.git
+git clone https://github.com/SurendraMatsa/Linux-DevOps-Lab-Projects.git
 ```
 
 ### 2. Navigate to the project
 
 ```bash
-cd Linux-DevOps-Lab-Projects/02-log-cleaner
+cd Linux-DevOps-Lab-Projects/LogCleanerScript
 ```
 
 ### 3. Give execute permission
 
 ```bash
-chmod +x logclean.sh
+chmod +x logcleanScript.sh
 ```
 
 ### 4. Run the script
 
 ```bash
-./logclean.sh
+./logcleanScript.sh
 ```
 
 ---
