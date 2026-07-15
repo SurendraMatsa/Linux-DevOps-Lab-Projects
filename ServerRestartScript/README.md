@@ -62,7 +62,7 @@ The complete source code is available in this repository.
 ##  Project Structure
 
 ```
-01-service-monitor/
+01-ServerRestartScript/
 │
 ├── ServerRestart.sh
 ├── README.md
