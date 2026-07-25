@@ -22,9 +22,9 @@ The goal of this repository is to strengthen my Linux fundamentals, automate rep
 | Project | Description | Status |
 |---------|-------------|--------|
 | Service Monitor & Auto Restart | Monitors a service, automatically restarts it if it stops, and logs all events. | ✅ Completed |
-| Log Cleanup Automation | Automatically remove old log files. | ✅ Coming Soon |
-| User Management Automation | Automate Linux user creation and management. | ✅ Coming Soon |
-| Backup Automation | Backup important directories with timestamps. | ✅ Coming Soon |
+| Log Cleanup Automation | Automatically remove old log files. | ✅ Completed |
+| User Management Automation | Automate Linux user creation and management. | ✅ Completed |
+| Backup Automation | Backup important directories with timestamps. | ✅ Completed |
 | System Health Check | Monitor CPU, Memory, Disk, and Load Average. |  Coming Soon |
 ---
 
