@@ -23,15 +23,9 @@ The goal of this repository is to strengthen my Linux fundamentals, automate rep
 |---------|-------------|--------|
 | Service Monitor & Auto Restart | Monitors a service, automatically restarts it if it stops, and logs all events. | ✅ Completed |
 | Log Cleanup Automation | Automatically remove old log files. | ✅ Coming Soon |
-| Disk Usage Monitor | Monitor disk usage and alert when usage exceeds a threshold. | 🚧 Coming Soon |
+| User Management Automation | Automate Linux user creation and management. | ✅ Coming Soon |
 | System Health Check | Monitor CPU, Memory, Disk, and Load Average. | 🚧 Coming Soon |
 | Backup Automation | Backup important directories with timestamps. | 🚧 Coming Soon |
-| User Management Automation | Automate Linux user creation and management. | 🚧 Coming Soon |
-| Process Monitor | Monitor processes and automatically detect abnormal behavior. | 🚧 Coming Soon |
-| File Permission Manager | Manage Linux file permissions using Bash. | 🚧 Coming Soon |
-| Cron Job Automation | Automate scheduled tasks using cron. | 🚧 Coming Soon |
-| Network Troubleshooting Scripts | Useful networking utilities for Linux administrators. | 🚧 Coming Soon |
-
 ---
 
 ##  Technologies Used
